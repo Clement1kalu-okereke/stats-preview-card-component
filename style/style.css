@@ -1,0 +1,39 @@
+body {
+  background-color: hsl(233, 47%, 7%);
+}
+
+footer {
+  color: white;
+}
+
+main {
+  margin-inline: 82px;
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: hsl(244, 38%, 16%);
+  width: 90vw;
+  margin: auto;
+  border-radius: 8px;
+  padding: 0;
+  overflow: auto;
+  color: hsl(0, 0%, 100%);
+}
+h1 {
+  color: hsl(0, 0%, 100%);
+}
+.insights {
+  color: hsl(277, 64%, 61%);
+}
+.image__container {
+  /* background-image: linear-gradient(hsl(277, 64%, 61%), hsl(277, 64%, 61%)); */
+  background-color: hsl(277, 64%, 61%);
+}
+img {
+  display: block;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+section {
+  padding: 0;
+  margin: 0;
+}
