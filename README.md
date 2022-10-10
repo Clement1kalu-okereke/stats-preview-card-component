@@ -36,7 +36,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL : [frontendmentor.io](https://frontendmentor.io/challenge)
+- Solution URL : [frontendmentor.io](https://www.frontendmentor.io/solutions/stats-preview-page-with-css-flex-uk3kiAIhYs)
 - Live Site URL : [vercel app](https://stats-preview-card-component-dusky.vercel.app/)
 
 ## My Process
